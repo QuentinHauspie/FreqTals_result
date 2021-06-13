@@ -1,0 +1,15 @@
+INPUT
+===================
+- data sources : input/jgraphx
+- input files : 400
+- minSupport : 5
+
+OUTPUT
+===================
+- Step 1: Mining frequent patterns with max size constraints
+	 + running time = 55s
+	 + root occurrences groups = 50
+- Step 2: Mining maximal patterns WITHOUT max size constraint:
+	 + timeout in the second step
+	 + maximal patterns: 53
+	 + running time: ...600s

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matches>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/shape/mxStencil.java">
+    <node ID="8376" Name="?_root" />
+    <node ID="8758" Name="?_visited" />
+    <node ID="8565" Name="?_visited" />
+    <node ID="8747" Name="?_visited" />
+    <node ID="8560" Name="?_visited" />
+    <node ID="8478" Name="?_visited" />
+    <node ID="8626" Name="?_visited" />
+    <node ID="8688" Name="?_visited" />
+    <node ID="8628" Name="?_visited" />
+    <node ID="8630" Name="?_visited" />
+    <node ID="8621" Name="?_visited" />
+    <node ID="8683" Name="?_visited" />
+    <node ID="8680" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/util/mxUtils.java">
+    <node ID="4731" Name="?_root" />
+    <node ID="10236" Name="?_visited" />
+    <node ID="7695" Name="?_visited" />
+    <node ID="10241" Name="?_visited" />
+    <node ID="16280" Name="?_visited" />
+    <node ID="13489" Name="?_visited" />
+    <node ID="13487" Name="?_visited" />
+    <node ID="16277" Name="?_visited" />
+    <node ID="13482" Name="?_visited" />
+    <node ID="19361" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/canvas/mxGraphicsCanvas2D.java">
+    <node ID="2899" Name="?_root" />
+    <node ID="10614" Name="?_visited" />
+    <node ID="8758" Name="?_visited" />
+    <node ID="8753" Name="?_visited" />
+    <node ID="10611" Name="?_visited" />
+    <node ID="7049" Name="?_visited" />
+    <node ID="7054" Name="?_visited" />
+    <node ID="8760" Name="?_visited" />
+    <node ID="12376" Name="?_visited" />
+    <node ID="5245" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/util/mxUtils.java">
+    <node ID="4759" Name="?_root" />
+    <node ID="13676" Name="?_visited" />
+    <node ID="7780" Name="?_visited" />
+    <node ID="13681" Name="?_visited" />
+    <node ID="19518" Name="?_visited" />
+    <node ID="10381" Name="?_visited" />
+    <node ID="10376" Name="?_visited" />
+    <node ID="13683" Name="?_visited" />
+    <node ID="16455" Name="?_visited" />
+    <node ID="16452" Name="?_visited" />
+  </match>
+</matches>

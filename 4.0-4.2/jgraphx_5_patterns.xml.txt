@@ -1,0 +1,1 @@
+(Block(statements(IfStatement(expression(InfixExpression(leftOperand(MethodInvocation(name(SimpleName(identifier(*length))))))(operator(*>))(rightOperand(NumberLiteral(token(*0))))))(thenStatement(Block(statements(ExpressionStatement(expression(MethodInvocation(name(SimpleName(identifier(*append)))))))))))))

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clusters>
+  <cluster ID="1">
+    <pattern ID="1" />
+    <pattern ID="3" />
+    <pattern ID="10" />
+    <pattern ID="11" />
+    <pattern ID="12" />
+    <pattern ID="14" />
+    <pattern ID="15" />
+    <pattern ID="18" />
+    <pattern ID="20" />
+    <pattern ID="25" />
+    <pattern ID="28" />
+    <pattern ID="34" />
+    <pattern ID="35" />
+    <pattern ID="37" />
+    <pattern ID="38" />
+    <pattern ID="40" />
+    <pattern ID="43" />
+    <pattern ID="44" />
+    <pattern ID="45" />
+    <pattern ID="47" />
+    <pattern ID="48" />
+  </cluster>
+  <cluster ID="2">
+    <pattern ID="2" />
+    <pattern ID="7" />
+    <pattern ID="16" />
+    <pattern ID="17" />
+    <pattern ID="21" />
+    <pattern ID="23" />
+    <pattern ID="27" />
+    <pattern ID="29" />
+    <pattern ID="31" />
+    <pattern ID="32" />
+    <pattern ID="46" />
+    <pattern ID="50" />
+    <pattern ID="51" />
+    <pattern ID="53" />
+  </cluster>
+  <cluster ID="3">
+    <pattern ID="4" />
+  </cluster>
+  <cluster ID="4">
+    <pattern ID="5" />
+    <pattern ID="6" />
+    <pattern ID="9" />
+    <pattern ID="24" />
+  </cluster>
+  <cluster ID="5">
+    <pattern ID="8" />
+  </cluster>
+  <cluster ID="6">
+    <pattern ID="13" />
+    <pattern ID="41" />
+  </cluster>
+  <cluster ID="7">
+    <pattern ID="19" />
+    <pattern ID="52" />
+  </cluster>
+  <cluster ID="8">
+    <pattern ID="22" />
+  </cluster>
+  <cluster ID="9">
+    <pattern ID="26" />
+    <pattern ID="39" />
+  </cluster>
+  <cluster ID="10">
+    <pattern ID="30" />
+  </cluster>
+  <cluster ID="11">
+    <pattern ID="33" />
+  </cluster>
+  <cluster ID="12">
+    <pattern ID="36" />
+  </cluster>
+  <cluster ID="13">
+    <pattern ID="42" />
+  </cluster>
+  <cluster ID="14">
+    <pattern ID="49" />
+  </cluster>
+</clusters>

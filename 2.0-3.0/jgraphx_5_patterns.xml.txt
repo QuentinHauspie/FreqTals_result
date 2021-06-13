@@ -1,0 +1,8 @@
+(Block(statements(ExpressionStatement(expression(MethodInvocation(expression(SimpleName(identifier(*state))))(name(SimpleName(identifier(*setInvalid)))))))))
+(Block(statements(ExpressionStatement(expression(MethodInvocation(name(SimpleName(identifier(*clear))))(arguments(BooleanLiteral(booleanValue(*true)))))))))
+(Block(statements(VariableDeclarationStatement(type(SimpleType(name(SimpleName(identifier(*mxCellState))))))(fragments(VariableDeclarationFragment(name(SimpleName(identifier(*tmp))))(initializer(MethodInvocation(name(SimpleName(identifier(*getState)))))))))))
+(Block(statements(ReturnStatement(expression(ClassInstanceCreation(type(SimpleType(name(SimpleName(identifier(*mxLine))))))(arguments(MethodInvocation(expression(SimpleName(identifier(*points))))(name(SimpleName(identifier(*get)))))))))))
+(Block(statements(IfStatement(expression(MethodInvocation(expression(SimpleName(identifier(*overflow))))(name(SimpleName(identifier(*equals)))))))))
+(Block(statements(IfStatement(expression(MethodInvocation(expression(SimpleName(identifier(*model))))(name(SimpleName(identifier(*isEdge)))))))))
+(Block(statements(ExpressionStatement(expression(MethodInvocation(name(SimpleName(identifier(*setInvalid))))(arguments(BooleanLiteral(booleanValue(*true)))))))))
+(Block(statements(ReturnStatement(expression(MethodInvocation(name(SimpleName(identifier(*createHtmlDocument))))(arguments(SimpleName(identifier(*style)))(SimpleName(identifier(*text)))))))))

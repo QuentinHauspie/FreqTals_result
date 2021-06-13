@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matches>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/shape/mxStencil.java">
+    <node ID="8376" Name="?_root" />
+    <node ID="8688" Name="?_visited" />
+    <node ID="8628" Name="?_visited" />
+    <node ID="8747" Name="?_visited" />
+    <node ID="8758" Name="?_visited" />
+    <node ID="8630" Name="?_visited" />
+    <node ID="8565" Name="?_visited" />
+    <node ID="8680" Name="?_visited" />
+    <node ID="8560" Name="?_visited" />
+    <node ID="8683" Name="?_visited" />
+    <node ID="8478" Name="?_visited" />
+    <node ID="8621" Name="?_visited" />
+    <node ID="8626" Name="?_visited" />
+  </match>
+</matches>

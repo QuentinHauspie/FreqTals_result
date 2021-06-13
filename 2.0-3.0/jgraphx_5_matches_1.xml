@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matches>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="7591" Name="?_root" />
+    <node ID="13321" Name="?_visited" />
+    <node ID="9517" Name="?_visited" />
+    <node ID="11436" Name="?_visited" />
+    <node ID="13318" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/swing/view/mxCellStatePreview.java">
+    <node ID="3211" Name="?_root" />
+    <node ID="3838" Name="?_visited" />
+    <node ID="4406" Name="?_visited" />
+    <node ID="4887" Name="?_visited" />
+    <node ID="4890" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="7339" Name="?_root" />
+    <node ID="11204" Name="?_visited" />
+    <node ID="9252" Name="?_visited" />
+    <node ID="13070" Name="?_visited" />
+    <node ID="13073" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="../jgraphx/src/com/mxgraph/swing/view/mxCellStatePreview.java">
+    <node ID="2019" Name="?_root" />
+    <node ID="2628" Name="?_visited" />
+    <node ID="3909" Name="?_visited" />
+    <node ID="3912" Name="?_visited" />
+    <node ID="3255" Name="?_visited" />
+  </match>
+  <match PatternID="2" FullName="../jgraphx/src/com/mxgraph/swing/handler/mxConnectPreview.java">
+    <node ID="3300" Name="?_root" />
+    <node ID="3869" Name="?_visited" />
+    <node ID="3877" Name="?_visited" />
+    <node ID="3545" Name="?_visited" />
+    <node ID="3723" Name="?_visited" />
+  </match>
+  <match PatternID="2" FullName="../jgraphx/src/com/mxgraph/view/mxGraph.java">
+    <node ID="44718" Name="?_root" />
+    <node ID="48484" Name="?_visited" />
+    <node ID="54353" Name="?_visited" />
+    <node ID="51621" Name="?_visited" />
+    <node ID="54363" Name="?_visited" />
+  </match>
+  <match PatternID="3" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="15006" Name="?_root" />
+    <node ID="17973" Name="?_visited" />
+    <node ID="17290" Name="?_visited" />
+    <node ID="17976" Name="?_visited" />
+    <node ID="17293" Name="?_visited" />
+    <node ID="18526" Name="?_visited" />
+    <node ID="17970" Name="?_visited" />
+    <node ID="16306" Name="?_visited" />
+  </match>
+  <match PatternID="3" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="15025" Name="?_root" />
+    <node ID="18026" Name="?_visited" />
+    <node ID="17328" Name="?_visited" />
+    <node ID="18540" Name="?_visited" />
+    <node ID="18029" Name="?_visited" />
+    <node ID="18032" Name="?_visited" />
+    <node ID="16342" Name="?_visited" />
+    <node ID="17325" Name="?_visited" />
+  </match>
+  <match PatternID="3" FullName="../jgraphx/src/com/mxgraph/swing/handler/mxConnectPreview.java">
+    <node ID="785" Name="?_root" />
+    <node ID="2024" Name="?_visited" />
+    <node ID="2021" Name="?_visited" />
+    <node ID="1224" Name="?_visited" />
+    <node ID="2027" Name="?_visited" />
+    <node ID="2485" Name="?_visited" />
+    <node ID="1626" Name="?_visited" />
+    <node ID="1623" Name="?_visited" />
+  </match>
+  <match PatternID="3" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="4779" Name="?_root" />
+    <node ID="10224" Name="?_visited" />
+    <node ID="8345" Name="?_visited" />
+    <node ID="12065" Name="?_visited" />
+    <node ID="10221" Name="?_visited" />
+    <node ID="6426" Name="?_visited" />
+    <node ID="8348" Name="?_visited" />
+    <node ID="10227" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="../jgraphx/src/com/mxgraph/shape/mxConnectorShape.java">
+    <node ID="1009" Name="?_root" />
+    <node ID="2425" Name="?_visited" />
+    <node ID="2428" Name="?_visited" />
+    <node ID="2422" Name="?_visited" />
+    <node ID="1758" Name="?_visited" />
+    <node ID="1393" Name="?_visited" />
+    <node ID="2122" Name="?_visited" />
+    <node ID="2114" Name="?_visited" />
+    <node ID="2436" Name="?_visited" />
+    <node ID="2433" Name="?_visited" />
+    <node ID="2117" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="../jgraphx/src/com/mxgraph/shape/mxCurveShape.java">
+    <node ID="788" Name="?_root" />
+    <node ID="973" Name="?_visited" />
+    <node ID="1101" Name="?_visited" />
+    <node ID="1208" Name="?_visited" />
+    <node ID="1287" Name="?_visited" />
+    <node ID="1221" Name="?_visited" />
+    <node ID="1302" Name="?_visited" />
+    <node ID="1305" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="../jgraphx/src/com/mxgraph/shape/mxConnectorShape.java">
+    <node ID="1011" Name="?_root" />
+    <node ID="2464" Name="?_visited" />
+    <node ID="2461" Name="?_visited" />
+    <node ID="2143" Name="?_visited" />
+    <node ID="1399" Name="?_visited" />
+    <node ID="2138" Name="?_visited" />
+    <node ID="2447" Name="?_visited" />
+    <node ID="1771" Name="?_visited" />
+    <node ID="2450" Name="?_visited" />
+    <node ID="2135" Name="?_visited" />
+    <node ID="2453" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="../jgraphx/src/com/mxgraph/shape/mxCurveShape.java">
+    <node ID="786" Name="?_root" />
+    <node ID="1262" Name="?_visited" />
+    <node ID="1081" Name="?_visited" />
+    <node ID="1184" Name="?_visited" />
+    <node ID="1259" Name="?_visited" />
+    <node ID="1244" Name="?_visited" />
+    <node ID="1171" Name="?_visited" />
+    <node ID="963" Name="?_visited" />
+  </match>
+  <match PatternID="5" FullName="../jgraphx/src/com/mxgraph/canvas/mxGraphicsCanvas2D.java">
+    <node ID="8172" Name="?_root" />
+    <node ID="9991" Name="?_visited" />
+    <node ID="13732" Name="?_visited" />
+    <node ID="11765" Name="?_visited" />
+    <node ID="13735" Name="?_visited" />
+  </match>
+  <match PatternID="6" FullName="../jgraphx/src/com/mxgraph/view/mxGraph.java">
+    <node ID="42867" Name="?_root" />
+    <node ID="46880" Name="?_visited" />
+    <node ID="53310" Name="?_visited" />
+    <node ID="50328" Name="?_visited" />
+    <node ID="53307" Name="?_visited" />
+  </match>
+  <match PatternID="6" FullName="../jgraphx/src/com/mxgraph/view/mxGraph.java">
+    <node ID="58933" Name="?_root" />
+    <node ID="60501" Name="?_visited" />
+    <node ID="62911" Name="?_visited" />
+    <node ID="61844" Name="?_visited" />
+    <node ID="62908" Name="?_visited" />
+  </match>
+  <match PatternID="6" FullName="../jgraphx/src/com/mxgraph/swing/mxGraphComponent.java">
+    <node ID="7318" Name="?_root" />
+    <node ID="14634" Name="?_visited" />
+    <node ID="18679" Name="?_visited" />
+    <node ID="18682" Name="?_visited" />
+    <node ID="11112" Name="?_visited" />
+  </match>
+  <match PatternID="7" FullName="../jgraphx/src/com/mxgraph/view/mxGraphView.java">
+    <node ID="7339" Name="?_root" />
+    <node ID="11204" Name="?_visited" />
+    <node ID="9252" Name="?_visited" />
+    <node ID="13076" Name="?_visited" />
+    <node ID="13073" Name="?_visited" />
+  </match>
+  <match PatternID="7" FullName="../jgraphx/src/com/mxgraph/swing/handler/mxConnectPreview.java">
+    <node ID="785" Name="?_root" />
+    <node ID="1228" Name="?_visited" />
+    <node ID="2035" Name="?_visited" />
+    <node ID="1630" Name="?_visited" />
+    <node ID="2038" Name="?_visited" />
+  </match>
+  <match PatternID="7" FullName="../jgraphx/src/com/mxgraph/swing/view/mxCellStatePreview.java">
+    <node ID="2019" Name="?_root" />
+    <node ID="2628" Name="?_visited" />
+    <node ID="3915" Name="?_visited" />
+    <node ID="3912" Name="?_visited" />
+    <node ID="3255" Name="?_visited" />
+  </match>
+  <match PatternID="7" FullName="../jgraphx/src/com/mxgraph/swing/view/mxCellStatePreview.java">
+    <node ID="3211" Name="?_root" />
+    <node ID="3838" Name="?_visited" />
+    <node ID="4893" Name="?_visited" />
+    <node ID="4406" Name="?_visited" />
+    <node ID="4890" Name="?_visited" />
+  </match>
+  <match PatternID="8" FullName="../jgraphx/src/com/mxgraph/util/mxUtils.java">
+    <node ID="4329" Name="?_root" />
+    <node ID="9610" Name="?_visited" />
+    <node ID="12634" Name="?_visited" />
+    <node ID="12640" Name="?_visited" />
+    <node ID="7158" Name="?_visited" />
+    <node ID="12637" Name="?_visited" />
+  </match>
+  <match PatternID="8" FullName="../jgraphx/src/com/mxgraph/shape/mxHtmlTextShape.java">
+    <node ID="274" Name="?_root" />
+    <node ID="585" Name="?_visited" />
+    <node ID="582" Name="?_visited" />
+    <node ID="579" Name="?_visited" />
+    <node ID="503" Name="?_visited" />
+    <node ID="408" Name="?_visited" />
+  </match>
+  <match PatternID="8" FullName="../jgraphx/src/com/mxgraph/util/mxUtils.java">
+    <node ID="4365" Name="?_root" />
+    <node ID="7181" Name="?_visited" />
+    <node ID="9627" Name="?_visited" />
+    <node ID="12662" Name="?_visited" />
+    <node ID="12656" Name="?_visited" />
+    <node ID="12659" Name="?_visited" />
+  </match>
+  <match PatternID="8" FullName="../jgraphx/src/com/mxgraph/util/mxUtils.java">
+    <node ID="4409" Name="?_root" />
+    <node ID="7210" Name="?_visited" />
+    <node ID="9644" Name="?_visited" />
+    <node ID="12679" Name="?_visited" />
+    <node ID="12682" Name="?_visited" />
+    <node ID="12685" Name="?_visited" />
+  </match>
+</matches>
